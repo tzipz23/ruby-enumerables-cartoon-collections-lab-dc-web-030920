@@ -4,7 +4,6 @@ i = 0
     puts "#{i + 1}. #{array[i]}"
     i += 1 
   end 
-end
 
 roll_call_dwarves(dwarves)
 

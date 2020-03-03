@@ -5,7 +5,7 @@ i = 0
     i += 1 
   end 
 
-roll_call_dwarves(dwarves)
+roll_call_dwarves(array)
 
 
   # Your code here
